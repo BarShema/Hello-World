@@ -1,2 +1,3 @@
 # Hello-World
-Teest repository
+Test repository
+# Cause the hello-world guide told me to...
